@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DEFCON_CORE
+</name>
+</assembly>
+<members>
+<member name="P:DEFCON_CORE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DEFCON_CORE.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DEFCON_CORE.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DEFCON_CORE.CORE.SMS_SEND(System.String,System.String,System.String,System.String,System.String@)">
+	<summary>
+ Allows the DEFCON client to send the user a text message.
+ </summary>
+	<param name="CountryCode">EG: +44</param>
+	<param name="ISO">EG: GB</param>
+	<param name="NUM">EG: 01234567890</param>
+	<param name="FROM">EG: DEFCON</param>
+	<param name="TEXT">EG: Hello World</param>
+	<returns></returns>
+	<remarks>Dubito</remarks>
+</member><member name="M:DEFCON_CORE.CORE.LOCKDOWN(System.Boolean)">
+	<summary>
+ LOCKDOWN allows the DEFCON client to enable and disable the current user's internet connection.
+ This is useful when attempting to inhibit the transmission of malicious traffic whilst destroying
+ the malware.
+ </summary>
+	<param name="LOCK">TRUE = Disable Internet Connection | FALSE = Enable Internet Connection</param>
+	<returns></returns>
+	<remarks>Dubito</remarks>
+</member><member name="M:DEFCON_CORE.CORE.SPEAKTOCLIENT(System.String@)">
+	<summary>
+ Allows the DEFCON client to "Talk" to the user via speech synthesis.
+ </summary>
+	<param name="TEXT">The text you want the client to "say"</param>
+	<returns></returns>
+	<remarks>Dubito</remarks>
+</member>
+</members>
+</doc>

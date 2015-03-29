@@ -1,0 +1,8 @@
+C:\Users\Luke\Documents\DEFCON_CORE\DEFCON_CORE\bin\Debug\DEFCON_CORE.dll
+C:\Users\Luke\Documents\DEFCON_CORE\DEFCON_CORE\bin\Debug\DEFCON_CORE.pdb
+C:\Users\Luke\Documents\DEFCON_CORE\DEFCON_CORE\bin\Debug\DEFCON_CORE.xml
+C:\Users\Luke\Documents\DEFCON_CORE\DEFCON_CORE\obj\Debug\DEFCON_CORE.Resources.resources
+C:\Users\Luke\Documents\DEFCON_CORE\DEFCON_CORE\obj\Debug\DEFCON.vbproj.GenerateResource.Cache
+C:\Users\Luke\Documents\DEFCON_CORE\DEFCON_CORE\obj\Debug\DEFCON_CORE.dll
+C:\Users\Luke\Documents\DEFCON_CORE\DEFCON_CORE\obj\Debug\DEFCON_CORE.xml
+C:\Users\Luke\Documents\DEFCON_CORE\DEFCON_CORE\obj\Debug\DEFCON_CORE.pdb
